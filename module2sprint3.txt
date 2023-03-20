@@ -1,0 +1,5 @@
+RFM analysis report --
+https://lookerstudio.google.com/reporting/71b2ad64-27c4-4160-8d5d-25a3c1b1e1ed
+
+google sheet including clv project and rfm raw data -- 
+https://docs.google.com/spreadsheets/d/1HljIjJsJlf3ByBOJwWbAannmjQ_X1KMB2DhF6RhAamc/edit?usp=sharing
